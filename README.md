@@ -14,18 +14,18 @@ Sou apaixonado por tecnologia e pela bíblia, e compartilho meu conhecimento no 
             title="Me segue no Instagram" 
             src="https://custom-icon-badges.demolab.com/badge/INSTAGRAM-red.svg?color=red&style=for-the-badge&labelColor=red&logo=insta&label="
         />
-<a href="https://github.com/ferreiraz-dev?tab=repositories">
+<a href="https://github.com/gsilvatech?tab=repositories">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/ferreiraz-dev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/gsilvatech?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/ferreiraz-dev?tab=followers">
+    <a href="https://github.com/gsilvatech?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/ferreiraz-dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/gsilvatech?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
